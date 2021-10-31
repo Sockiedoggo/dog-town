@@ -1,0 +1,10 @@
+﻿  FirstApp.cpp
+C:\Users\Master\Desktop\FirstAppGLEW\FirstApp\Angel.h(64,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Master\Desktop\FirstAppGLEW\FirstApp\mat.h(698,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Master\Desktop\FirstAppGLEW\FirstApp\mat.h(699,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Master\Desktop\FirstAppGLEW\FirstApp\mat.h(700,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Master\Desktop\FirstAppGLEW\FirstApp\mat.h(721,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Master\Desktop\FirstAppGLEW\FirstApp\mat.h(723,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Master\Desktop\FirstAppGLEW\FirstApp\mat.h(726,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Master\Desktop\FirstAppGLEW\FirstApp\mat.h(743,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  FirstApp.vcxproj -> C:\Users\Master\Desktop\FirstAppGLEW\Debug\FirstApp.exe
