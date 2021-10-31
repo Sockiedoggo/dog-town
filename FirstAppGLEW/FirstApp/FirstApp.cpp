@@ -308,21 +308,6 @@ init( void ) //{L, J, Z, S, O, I, T};
     uniformColor1 = vec4(253, 245, 230, 255) / 255;
     uniformColor2 = vec4(255, 228, 181, 255) / 255;
 
-    nextShapePosition = 0;
-    allShapes[nextShapePosition].color = uniformColor1;
-    allShapes[nextShapePosition].start = 0;
-    allShapes[nextShapePosition].nVertices = 3;
-    allShapes[nextShapePosition].position = vec3(0.5f, 0.5f, 0);
-    allShapes[nextShapePosition].scale = vec3(0.5f, 0.5f, 0.5f);
-    allShapes[nextShapePosition].rotation = 45.0f;
-    nextShapePosition++;
-    allShapes[nextShapePosition].color = uniformColor2;
-    allShapes[nextShapePosition].start = 3;
-    allShapes[nextShapePosition].nVertices = 3;
-    allShapes[nextShapePosition].scale = vec3(0.75f, 0.75f, 0.75f);
-    allShapes[nextShapePosition].rotation = 120.0f;
-    nextShapePosition++;
-
     glClearColor( 0.5, 0.5, 0.5, 1.0 ); // gray background
 }
 
